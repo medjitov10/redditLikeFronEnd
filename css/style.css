@@ -1,0 +1,47 @@
+hr {
+    border: 0;
+    height: 1px;
+    background: #333;
+    background-image: linear-gradient(to right, #ccc, #333, #ccc);
+    margin-top: 7px;
+    margin-bottom: 7px;
+}
+
+.sign-in {
+    width: 100%;
+    max-width: 330px;
+    padding: 15px;
+    margin: auto;
+}
+
+.btn-primary {
+    margin-top: 10px;
+}
+
+.content {
+    padding: 7px;
+    border: 1px solid rgba(0,0,0, .3);
+    width: 80%;
+    margin: 0 auto;
+    margin-bottom: 10px;
+    border-radius: 10px;
+    background: #f8f9fa;
+}  
+
+#new-post {
+    border: 1px solid black;
+    border-radius: 5px;
+    background: #f8f9fa;
+    width: 60%;
+    padding: 15px;
+    margin: auto;
+    margin-top: 50px;
+}
+
+.new-post-div {
+    background: rgba(0,0,0, .5);
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0;
+}
